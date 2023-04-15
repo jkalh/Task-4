@@ -1,0 +1,13 @@
+/Users/jeancarlhenryflorexil/Projects/CompanyQ/CompanyQ/obj/Debug/netcoreapp3.1/CompanyQ.csproj.AssemblyReference.cache
+/Users/jeancarlhenryflorexil/Projects/CompanyQ/CompanyQ/obj/Debug/netcoreapp3.1/CompanyQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeancarlhenryflorexil/Projects/CompanyQ/CompanyQ/obj/Debug/netcoreapp3.1/CompanyQ.AssemblyInfoInputs.cache
+/Users/jeancarlhenryflorexil/Projects/CompanyQ/CompanyQ/obj/Debug/netcoreapp3.1/CompanyQ.AssemblyInfo.cs
+/Users/jeancarlhenryflorexil/Projects/CompanyQ/CompanyQ/obj/Debug/netcoreapp3.1/CompanyQ.csproj.CoreCompileInputs.cache
+/Users/jeancarlhenryflorexil/Projects/CompanyQ/CompanyQ/bin/Debug/netcoreapp3.1/CompanyQ.deps.json
+/Users/jeancarlhenryflorexil/Projects/CompanyQ/CompanyQ/bin/Debug/netcoreapp3.1/CompanyQ.runtimeconfig.json
+/Users/jeancarlhenryflorexil/Projects/CompanyQ/CompanyQ/bin/Debug/netcoreapp3.1/CompanyQ.runtimeconfig.dev.json
+/Users/jeancarlhenryflorexil/Projects/CompanyQ/CompanyQ/bin/Debug/netcoreapp3.1/CompanyQ.dll
+/Users/jeancarlhenryflorexil/Projects/CompanyQ/CompanyQ/bin/Debug/netcoreapp3.1/CompanyQ.pdb
+/Users/jeancarlhenryflorexil/Projects/CompanyQ/CompanyQ/obj/Debug/netcoreapp3.1/CompanyQ.dll
+/Users/jeancarlhenryflorexil/Projects/CompanyQ/CompanyQ/obj/Debug/netcoreapp3.1/CompanyQ.pdb
+/Users/jeancarlhenryflorexil/Projects/CompanyQ/CompanyQ/obj/Debug/netcoreapp3.1/CompanyQ.genruntimeconfig.cache
